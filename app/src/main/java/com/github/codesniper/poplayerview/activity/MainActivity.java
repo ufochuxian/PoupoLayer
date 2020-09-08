@@ -3,9 +3,10 @@ package com.github.codesniper.poplayerview.activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.github.codesniper.poplayer.PopLayerView;
 import com.github.codesniper.poplayer.config.LayerConfig;

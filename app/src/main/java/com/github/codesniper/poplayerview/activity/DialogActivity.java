@@ -2,11 +2,12 @@ package com.github.codesniper.poplayerview.activity;
 
 import android.app.Dialog;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.github.codesniper.poplayer.PopLayerView;
 import com.github.codesniper.poplayer.custom.PopCallback;

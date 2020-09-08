@@ -4,13 +4,14 @@ import android.app.Dialog;
 import android.content.Context;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
 import android.view.Gravity;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
+
+import androidx.annotation.NonNull;
 
 import com.github.codesniper.poplayer.custom.newPop.IWindow;
 import com.github.codesniper.poplayer.custom.newPop.PopDialog;
